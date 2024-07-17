@@ -33,7 +33,7 @@ const Home=()=>{
                         <div className="mobile-container" style={{position: 'relative', width: '260px', height: '500px' ,left:'32%'}}>
                             <img src={mobile} className="img d-block mx-lg-auto img-fluid" alt="Mobile" width="260" height="500" loading="lazy"/>
                             <video className="video-inside-mobile" style={{position: 'absolute', top: '2%', left: '5%', width: '89.5%', height: '100.5%'}} controls>
-                                <source src="./src/assets/foodie.mp4" type="video/mp4"/>
+                                <source src="./src/assets/foodie1.mp4" type="video/mp4"/>
                                 Your browser does not support the video tag.
                             </video>
                         </div>
